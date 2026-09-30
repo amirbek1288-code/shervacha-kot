@@ -1,8 +1,8 @@
 import React from 'react'
 
-const fotter = () => {
+const Sherboq = () => {
   return (
-    <>
+    <div>
       <div>
       <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10">
   <aside>
@@ -66,8 +66,8 @@ const fotter = () => {
   </nav>
 </footer>
     </div>
-    </>
+    </div>
   )
 }
 
-export default fotter
+export default Sherboq
